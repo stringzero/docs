@@ -1,3 +1,3 @@
 <!-- 封面 -->
 [ttx常用文档](/ttx-book/_sidebar)
-[ttx常用文档](/linux/_sidebar)
+[linux常用命令](/linux/_sidebar)
