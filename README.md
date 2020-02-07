@@ -1,6 +1,6 @@
 # Headline
 
-* [正式访问地址]](https://docs.immaid.com/#/)
+* [正式访问地址](https://docs.immaid.com/#/)
 
 > An awesome project.
 * [Guide](guide.md)
