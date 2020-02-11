@@ -6,5 +6,7 @@
 
 
 ## 同步时间
-`ntpdate pool.ntp.org`
+`sudo ntpdate pool.ntp.org` 
+or
+`sudo ntp1.aliyun.com` 
 
