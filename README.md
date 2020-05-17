@@ -15,3 +15,9 @@ npm i docsify-cli -g
 ```
 docsify serve docs
 ```
+
+# 服务器上如何更新文档
+```bash
+cd /home/ttx/app/compose/docsify
+git pull
+```
