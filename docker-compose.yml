@@ -3,13 +3,13 @@ services:
   docsify:
     container_name: docsify
     image: littlstar/docker-docsify:alpine
-    # ports:
-    #   - "3000:3000"
+    ports:
+      - "3000:3000"
     volumes:
       - ./docs:/usr/local/docsify:rw
     restart: always
-networks:
-  default:
-    external:
-      name: my-net  #加入自定义网络 my-net
+# networks:
+  # default:
+    # external:
+      # name: my-net  #加入自定义网络 my-net
 # docker network create my-net
