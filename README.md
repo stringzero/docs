@@ -16,6 +16,14 @@ git clone http://git.ittx.com.cn/zwzeng/docsify.git
 > _coverpage.md  项目封面
 > _sidebar.md    维护目录
 
+### 发布
+> 堡垒机登录 通天晓-实施部-WMS-测试-66
+```
+cd /home/ttx/app/compose/docsify
+git pull
+# 完成发布
+```
+
 ## 本地启动
 > 安装 docsify
 ```
