@@ -4,3 +4,5 @@
 <abcde><xsl:value-of select="$pID"/></abcde>
 <!-- 关联pID， 出库箱显示出库单明细数据 -->
 <erpOrderId><xsl:value-of select="/shipment/details/detail/shipmentDetail[id=$pID]/erpOrderId"/></erpOrderId>
+
+https://www.w3school.com.cn/xpath/index.asp
