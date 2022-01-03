@@ -3,4 +3,4 @@
 2. [常用地址](/ttx/常用地址)
 3. [xslt常用](/ttx/xslt)
 4. [部署文档](/ttx/部署文档)
-5. [android安卓](./android/_sidebar)
+5. [android安卓](/ttx/android/_sidebar)
