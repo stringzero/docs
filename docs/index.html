@@ -24,7 +24,10 @@
       subMaxLevel: 4,
       loadNavbar: true, //通过配置文件定义导航栏  _navbar.md
       coverpage: true,
-      search: 'auto',   
+      search: 'auto',
+      plantuml: {
+        skin: 'default',
+      },
     }
   </script>
   <script src="//unpkg.com/docsify"></script>
@@ -32,7 +35,7 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>  
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-
+  <script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
