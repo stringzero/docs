@@ -2,6 +2,6 @@
 [mysql](/mysql/_sidebar)
 [ttx](/ttx/_sidebar)
 [linux](/linux/_sidebar)
-[友链陈峰学长](https://blog.csdn.net/weixin_43944305)
-[友链胡一学长](https://blog.233hy.com/)
+[陈峰学长友链](https://blog.csdn.net/weixin_43944305)
+[胡一学长友链](https://blog.233hy.com/)
 
